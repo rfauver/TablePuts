@@ -1,4 +1,6 @@
 # TablePuts
+[![Gem Version](https://badge.fury.io/rb/table_puts.svg)](https://badge.fury.io/rb/table_puts)
+
 Print nice tables in a ruby console
 
 # Installation
